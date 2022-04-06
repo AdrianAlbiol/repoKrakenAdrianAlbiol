@@ -1,2 +1,3 @@
 Adrian Albiol Hernandez
 (A) Benvinguda a la branca01 Adrian Albiol
+(E) Afegim imatge a branca01 NomAlumne
